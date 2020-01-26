@@ -6,11 +6,13 @@ permalink: /about/
 
 <img src="https://pngimage.net/wp-content/uploads/2018/06/mati%C3%A8re-png.png">
 
+### Thông tin
+
 Lê Xuân Trường
 
-Công tác tại: Khoa Toán Thống kê - Trường Đại học Kinh tế TPHCM 
+*Công tác tại*: [Khoa Toán Thống kê](http://sems.ueh.edu.vn) - [Trường Đại học Kinh tế TPHCM](https://ueh.edu.vn/)
 
-Chuyên ngành: Phương trình đạo hàm 
+*Chuyên ngành*: Phương trình đạo hàm riêng
 
 ### Về trang blog
 
