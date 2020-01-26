@@ -4,7 +4,11 @@ title:
 permalink: /about/
 ---
 
+<p align="center">
+
 <img src="https://pngimage.net/wp-content/uploads/2018/06/mati%C3%A8re-png.png">
+
+</p>
 
 ### Thông tin
 
