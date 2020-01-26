@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="https://images.app.goo.gl/1fg5igr5XmK43ppcA">
+<img src="https://pngimage.net/wp-content/uploads/2018/06/mati%C3%A8re-png.png">
 
 Some information about you!
 
