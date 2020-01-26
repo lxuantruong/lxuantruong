@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Thông tin
+title: 
 permalink: /about/
 ---
 
@@ -12,10 +12,10 @@ Công tác tại: Khoa Toán Thống kê - Trường Đại học Kinh tế TPHC
 
 Chuyên ngành: Phương trình đạo hàm 
 
-### More Information
+### Về trang blog
 
-A place to include any other types of information that you'd like to include about yourself.
+Cuộc 
 
-### Contact me
+### Liên hệ
 
 [lxuantruong@gmail.com](mailto:lxuantruong@gmail.com)
