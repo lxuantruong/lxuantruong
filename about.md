@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-https://images.app.goo.gl/1fg5igr5XmK43ppcA
+<a href="https://vforum.vn" target="_blank"><img src= "https://images.app.goo.gl/1fg5igr5XmK43ppcA"/> </a>
 
 Some information about you!
 
