@@ -12,16 +12,16 @@ permalink: /about/
 
 ### Thông tin
 
-Lê Xuân Trường
+  - Lê Xuân Trường
 
-*Công tác tại*: [Khoa Toán Thống kê](http://sems.ueh.edu.vn) - [Trường Đại học Kinh tế TPHCM](https://ueh.edu.vn/)
+  - *Công tác tại*: [Khoa Toán Thống kê](http://sems.ueh.edu.vn) - [Trường Đại học Kinh tế TPHCM](https://ueh.edu.vn/)
 
-*Chuyên ngành*: Phương trình đạo hàm riêng
+  - *Chuyên ngành*: Phương trình đạo hàm riêng
 
 ### Về trang blog
 
-Cuộc sống 
+  Cuộc sống 
 
 ### Liên hệ
 
-[lxuantruong@gmail.com](mailto:lxuantruong@gmail.com)
+  - [lxuantruong@gmail.com](mailto:lxuantruong@gmail.com)
