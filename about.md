@@ -14,7 +14,7 @@ Chuyên ngành: Phương trình đạo hàm
 
 ### Về trang blog
 
-Cuộc 
+Cuộc sống 
 
 ### Liên hệ
 
