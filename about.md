@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-https://images.app.goo.gl/1fg5igr5XmK43ppcA
+url{https://images.app.goo.gl/1fg5igr5XmK43ppcA}
 
 Some information about you!
 
