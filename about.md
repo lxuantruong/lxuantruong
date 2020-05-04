@@ -16,6 +16,7 @@ published: true
   - Lê Xuân Trường
 
   - [Khoa Toán Thống kê](http://sems.ueh.edu.vn) - [Trường Đại học Kinh tế TPHCM](https://ueh.edu.vn/)
+  - Viện Toán ứng dụng [Trường Đại học Kinh tế TPHCM](https://ueh.edu.vn/) 
 
   - Lĩnh vực nghiên cứu: Phương trình đạo hàm riêng
 
