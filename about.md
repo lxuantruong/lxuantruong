@@ -11,7 +11,7 @@ published: true
 
 </p>
 
-### Thông tin
+### Thông tin cá nhân:
 
   - Lê Xuân Trường
 
@@ -19,11 +19,11 @@ published: true
 
   - Lĩnh vực nghiên cứu: Phương trình đạo hàm riêng
 
-### Về trang blog
+### Về trang blog:
 
-  Cuộc sống 
+  Các vấn đề  
 
-### Liên hệ
+### Liên hệ:
 
-  - [lxuantruong@gmail.com](mailto:lxuantruong@gmail.com)
-  - [lxuantruong@ueh.edu.vn](mailto:lxuantruong@ueh.edu.vn)
+  - Email 1: [lxuantruong@gmail.com](mailto:lxuantruong@gmail.com)
+  - Email 2: [lxuantruong@ueh.edu.vn](mailto:lxuantruong@ueh.edu.vn)
