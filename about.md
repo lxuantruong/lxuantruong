@@ -16,7 +16,9 @@ published: true
   - Họ và tên: Lê Xuân Trường
 
   - Nơi làm việc:
+  
   	- [Khoa Toán Thống kê](http://sems.ueh.edu.vn) - [Trường Đại học Kinh tế TPHCM](https://ueh.edu.vn/)
+    
   	- Viện Toán ứng dụng [Trường Đại học Kinh tế TPHCM](https://ueh.edu.vn/) 
 
   - Lĩnh vực nghiên cứu: Phương trình đạo hàm riêng
