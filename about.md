@@ -17,7 +17,7 @@ published: true
 
   - Nơi làm việc:
   	
-    1. [Khoa Toán Thống kê](http://sems.ueh.edu.vn) [Trường Đại học Kinh tế TPHCM](https://ueh.edu.vn/)
+    1. [Khoa Toán Thống kê](http://sems.ueh.edu.vn) - [Trường Đại học Kinh tế TPHCM](https://ueh.edu.vn/)
     
     2. Viện Toán ứng dụng [Trường Đại học Kinh tế TPHCM](https://ueh.edu.vn/) 
 
